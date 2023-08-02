@@ -1,4 +1,4 @@
-👋 Hi, I’m @jeparalta and I have recently shifted my focus towards learning web development. After spending the last 15+ years owning and running small businesses, including a surfschool, 2 hostels, cafés, and 2 surfshops, I am now excited to learn about the ins and outs of web development.
+👋 Hi, I’m @jeparalta and I have recently shifted my focus towards learning web development. After spending the last 15+ years owning and running small businesses, including a surfschool, 2 hostels, a restaurant, and 2 surfshops, I am now excited to learn about the ins and outs of web development.
 
 🌱 My current focus is on learning Python, Django, and Javascript, as these are essential skills for web development. I am dedicated to expanding my knowledge and skills in this area.
 
