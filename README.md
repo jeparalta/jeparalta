@@ -21,7 +21,7 @@ Postgres
 
 
 
-### Collaborate with Me!
+## Collaborate with Me!
 I'm open to collaborating on projects where I can add value and learn. Let's connect!
 
 jeparalta@gmail.com
