@@ -1,11 +1,30 @@
-Hi, I’m @jeparalta and I have recently shifted my focus towards web development. After spending the last 15+ years owning and running small businesses, including a surfschool, 2 hostels, a restaurant, and 2 surfshops, I am now excited to get deep into the ins and outs of web development.
+*About Me*
+Web Developer & Entrepreneur
 
-I am currently working on building a booking management system to help small businesses similar to the ones I've run in the past.
+I'm a self-taught web developer currently focused on creating a bookings management app for small businesses called Highttide. With over 15 years of experience in managing businesses like a guesthouse, surf school, hostels, a restaurant, and surf shops, I bring unique industry knowledge and entrepreneurial perspective to my tech projects.
 
-When I'm not writing code, I enjoy sailing, surfing, and improving my small business. I am always eager to learn about new things and to understand how they work.
+*Villa Boho*
+I currently own and operate Villa Boho, a boutique guesthouse in Lagos, Portugal, blending hospitality with style.
 
-I am looking for opportunities to collaborate on interesting projects where I can bring real value. If you have any ideas or requests, feel free to email me at jeparalta@gmail.com.
+*Current tech stack*
+Python 
+  Django
+  Flask
+Javascript
+  HTMX
+  Alpine
+HTML
+CSS
+  Bootstrap
+Git
+Postgres
 
+
+
+**Collaborate with Me!**
+I'm open to collaborating on projects where I can add value and learn. Let's connect!
+
+jeparalta@gmail.com
 
 
 <!---
