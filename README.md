@@ -12,7 +12,7 @@ Python
   Flask
 Javascript
   HTMX
-  Alpine
+  AlpineJS
 HTML
 CSS
   Bootstrap
