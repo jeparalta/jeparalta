@@ -6,23 +6,27 @@ Web developer currently focused on creating a bookings management SaaS for small
 ## Villa Boho
 I also own and operate Villa Boho, a boutique guesthouse in Lagos, Portugal, blending hospitality with style.
 
-## Current tech stack
-Python 
-  Django
-  Flask
-Javascript
-  HTMX
-  AlpineJS
-HTML
-CSS
-  Bootstrap
-Git
-Postgres
-Redis
-Docker
-Digital Ocean
-Webflow
-WordPress
+## Current Tech Stack
+
+- **Programming Languages**
+  - Python
+    - Django
+    - Flask
+  - JavaScript
+    - HTMX
+    - AlpineJS
+  - HTML
+  - CSS
+    - Bootstrap
+
+- **Tools and Platforms**
+  - Git
+  - Postgres
+  - Redis
+  - Docker
+  - DigitalOcean
+  - Webflow
+  - WordPress
 
 
 
